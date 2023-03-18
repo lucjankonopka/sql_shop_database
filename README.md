@@ -1,4 +1,4 @@
-# SQL - simple shop database
+# SQL - Simple Shop Database
 
 Technology used: *sql, python, ipython-sql*
 
