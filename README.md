@@ -25,4 +25,4 @@ The documentation of the process is included in the file [*shop.ipynb*](https://
 
 ## Summary
 
-The project was performed for training purposes and serves only SQL practice.
+The project was done for the purpose of practice and to improve skills in SQL.
