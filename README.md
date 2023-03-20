@@ -21,7 +21,7 @@ The process of creating the database and tables with customers, products and ord
 
 ## Analysis
 
-The documentation of the process is included in the file [*shop.ipynb*](https://github.com/lucjankonopka/sql_shop_database/blob/main/shop.ipynb).
+The documentation of the data analysis process is included in the file [*shop.ipynb*](https://github.com/lucjankonopka/sql_shop_database/blob/main/shop.ipynb).
 
 ## Summary
 
